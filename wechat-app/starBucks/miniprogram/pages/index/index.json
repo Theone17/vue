@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "slideshow":"../../components/slideshow/slideshow",
+    "imgbtn": "../../components/imgbtn/imgbtn"
+  }
+}
